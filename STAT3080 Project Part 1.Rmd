@@ -1,5 +1,6 @@
 ---
 title: "Project Part 1" 
+author: "Agnes Hua, Zichen Luo"
 fontsize: 12pt
 geometry: margin=1in
 urlcolor: black
@@ -109,6 +110,7 @@ The scatterplot between QOL and Life Expectency illustrates the strong positive 
 
 Our analysis provides foundational insights that can inform targeted policy recommendations aimed at improving quality of life by addressing critical factors such as health, environmental factors, and equitable access to resources. 
 
+\newpage
 ## References
 
 ### Background
